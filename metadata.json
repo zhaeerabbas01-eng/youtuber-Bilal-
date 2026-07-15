@@ -1,0 +1,6 @@
+{
+  "name": "Technical Bilal Jahangir Prompt Marketplace",
+  "description": "Browse, search, and instantly copy premium AI prompts from Technical Bilal Jahangir's YouTube channel. Includes an elegant SaaS-style interface, full search capability, and a private admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

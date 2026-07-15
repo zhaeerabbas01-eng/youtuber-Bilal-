@@ -1,0 +1,166 @@
+{
+  "prompts": [
+    {
+      "id": "prompt-1",
+      "title": "Photorealistic Cinematic Portrait Master Prompt",
+      "promptText": "Cinematic portrait shot of a rugged explorer, golden hour lighting, shot on 85mm anamorphic lens, highly detailed fabric textures, rich color grading, sharp focus on eyes, subtle atmospheric dust particles, photorealistic, 8k resolution --ar 16:9 --style raw --v 6.0",
+      "description": "Use this premium prompt in Midjourney v6 to generate jaw-dropping cinematic portraits with dramatic golden hour illumination and rich texturing.",
+      "category": "Midjourney",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=600",
+      "seoKeywords": [
+        "midjourney",
+        "cinematic",
+        "portrait",
+        "realistic",
+        "8k"
+      ],
+      "isFeatured": true,
+      "isTrending": true,
+      "status": "published",
+      "publishDate": "2026-07-14T12:00:00Z",
+      "views": 1240,
+      "copies": 489
+    },
+    {
+      "id": "prompt-2",
+      "title": "High-Converting Tech Video Script & Hook Generator",
+      "promptText": "Act as an expert YouTube Scriptwriter. Write a high-retention 8-minute script about the latest AI video tools. Start with an ultra-engaging 15-second visual hook targeting aspiring content creators, followed by a story-driven introduction, 3 actionable main value pillars, and a compelling call-to-action to subscribe to Technical Bilal Jahangir. Keep the tone friendly, enthusiastic, and fast-paced.",
+      "description": "A powerful ChatGPT prompt that structures any technical video to maximize average percentage viewed (APV) and retention.",
+      "category": "ChatGPT",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1542435503-956c469947f6?auto=format&fit=crop&q=80&w=600",
+      "seoKeywords": [
+        "chatgpt",
+        "youtube script",
+        "hook generator",
+        "video structure"
+      ],
+      "isFeatured": true,
+      "isTrending": false,
+      "status": "published",
+      "publishDate": "2026-07-13T15:30:00Z",
+      "views": 890,
+      "copies": 342
+    },
+    {
+      "id": "prompt-3",
+      "title": "Veo 3 AI Cinematic Slow Motion Tracking Shot",
+      "promptText": "A slow motion tracking shot of a futuristic sports car racing through a neon-lit cyberpunk Tokyo street. Rain drops reflecting on the glossy chassis, high-speed camera tracking, dramatic lens flare, 4k ultra-high-definition rendering, cinematic sound design synchronization.",
+      "description": "Perfect for creating stunning, highly immersive b-roll assets using Google Veo 3 video model.",
+      "category": "Veo 3",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=600",
+      "seoKeywords": [
+        "veo 3",
+        "cinematic video",
+        "neon street",
+        "cyberpunk",
+        "video prompt"
+      ],
+      "isFeatured": false,
+      "isTrending": true,
+      "status": "published",
+      "publishDate": "2026-07-12T09:15:00Z",
+      "views": 730,
+      "copies": 211
+    },
+    {
+      "id": "prompt-4",
+      "title": "Flux AI Cybernetic Character Design Sheet",
+      "promptText": "Character concept design sheet of a robotic mech engineer, front view, side view, back view, blueprint elements in the background, highly detailed machinery components, Unreal Engine 5 render style, concept art, rich lighting --ar 4:3",
+      "description": "This Flux prompt generates highly detailed, consistent, multi-angle design sheets for characters or props.",
+      "category": "Flux",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=600",
+      "seoKeywords": [
+        "flux",
+        "character design",
+        "cybernetic",
+        "concept sheet"
+      ],
+      "isFeatured": false,
+      "isTrending": false,
+      "status": "published",
+      "publishDate": "2026-07-11T18:45:00Z",
+      "views": 615,
+      "copies": 154
+    },
+    {
+      "id": "prompt-5",
+      "title": "Kling Text-To-Video Immersive Flight Over Mountains",
+      "promptText": "A continuous first-person drone flight winding down a steep snowy mountain canyon during sunrise. Dramatic volumetric fog, highly detailed snowy cliffs, cinematic camera tilt, smooth camera stabilization, hyper-realistic, photorealistic.",
+      "description": "Bring landscapes to life with this Kling video model prompt designed for hyper-realistic drone camera work.",
+      "category": "Kling",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=600",
+      "seoKeywords": [
+        "kling",
+        "video prompt",
+        "drone shot",
+        "mountain sunrise"
+      ],
+      "isFeatured": false,
+      "isTrending": true,
+      "status": "published",
+      "publishDate": "2026-07-10T14:20:00Z",
+      "views": 540,
+      "copies": 198
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-veo3",
+      "name": "Veo 3",
+      "slug": "veo-3"
+    },
+    {
+      "id": "cat-chatgpt",
+      "name": "ChatGPT",
+      "slug": "chatgpt"
+    },
+    {
+      "id": "cat-midjourney",
+      "name": "Midjourney",
+      "slug": "midjourney"
+    },
+    {
+      "id": "cat-flux",
+      "name": "Flux",
+      "slug": "flux"
+    },
+    {
+      "id": "cat-kling",
+      "name": "Kling",
+      "slug": "kling"
+    },
+    {
+      "id": "cat-image",
+      "name": "Image Prompt",
+      "slug": "image-prompt"
+    },
+    {
+      "id": "cat-video",
+      "name": "Video Prompt",
+      "slug": "video-prompt"
+    },
+    {
+      "id": "cat-thumbnail",
+      "name": "Thumbnail Prompt",
+      "slug": "thumbnail-prompt"
+    }
+  ],
+  "settings": {
+    "websiteName": "Technical Bilal Jahangir",
+    "logoUrl": "https://yt3.googleusercontent.com/p_Js-kUEs-gOrrAhKFfTFRZR6ZxD56vErh2e4q5VN0BuLtFzhW9vcd3iMbsufcDDwlKDG9OqQg=s900-c-k-c0x00ffffff-no-rj",
+    "faviconUrl": "https://chatgpt.com/backend-api/estuary/content?id=file_00000000d68c720ca0a1bbc493100c1c&ts=495586&p=fs&cid=1&sig=7e78ad40b5bda77304a5f9e4591dab6ee478afaadced3dcc6bc16dbcec338f0b&v=0",
+    "footerText": "© 2026 Technical Bilal Jahangir. All Rights Reserved. Empowering Creators with AI Prompt Engineering.",
+    "youtubeUrl": "https://www.youtube.com/@Technicalbilaljahangir",
+    "facebookUrl": "https://facebook.com",
+    "instagramUrl": "https://instagram.com",
+    "twitterUrl": "https://twitter.com",
+    "seoTitle": "Technical Bilal Jahangir - AI Prompt Marketplace",
+    "seoDescription": "Unlock premium, tested AI prompts from Technical Bilal Jahangir. Instant copy for ChatGPT, Midjourney, Flux, Kling, and Veo 3.",
+    "analyticsCode": "<!-- Google Analytics Placeholder -->"
+  },
+  "admin": {
+    "username": "admin",
+    "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+  },
+  "activeTokens": {}
+}
